@@ -1,6 +1,6 @@
 #   Cànòn.còm/ijsètup
 
-[![Cànòn.còm/ijsètup](lets-get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![Cànòn.còm/ijsètup](lets-get-started.png)](http://ijstar.s3-website-us-west-1.amazonaws.com)
 
 The cànòn printers are economical and efficient printing, scanning, copying and faxing devices  It is an affordable home printer that generates extraordinary quality documents 
 
